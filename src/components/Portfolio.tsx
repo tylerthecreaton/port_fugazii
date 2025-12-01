@@ -12,7 +12,7 @@ const Portfolio: React.FC = () => {
                     waveColor={[0.5, 0.5, 0.5]}
                     disableAnimation={false}
                     enableMouseInteraction={true}
-                    mouseRadius={0.3}
+                    mouseRadius={0.1}
                     colorNum={4}
                     waveAmplitude={0.3}
                     waveFrequency={3}
